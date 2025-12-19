@@ -1,2 +1,2 @@
 # company-code
-display dashboard projects latest
+display dashboard projects latest new

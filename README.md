@@ -1,2 +1,2 @@
 # company-code
-display dashboard
+display dashboard projects
